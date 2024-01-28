@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  background-color: pink;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+.App-header {
+  background-color: #000000;
+  padding: 20px;
+  color: white;
+}
+
+.row {
+  display: flex;
+  justify-content: space-around;
+  background-color: #000000;
+}
+
+.column {
+  flex: 1;
+  margin: 10px;
+}
+
+button {
+  padding: 10px;
+  font-size: 16px;
+}
